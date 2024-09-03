@@ -909,11 +909,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 191445c6-2235-46ac-828c-ced27cb4e577
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Tanks-Luca
+  organizationId: stezzza
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
